@@ -1,6 +1,6 @@
 # Manuales de PrestaShop 9.1
 
-**73 manuales en PDF** para el dueño de una tienda PrestaShop 9.1, en castellano y con
+**74 manuales en PDF** para el dueño de una tienda PrestaShop 9.1, en castellano y con
 las pantallas reales del back-office.
 
 Están escritos para quien lleva la tienda, no para quien la programa: nada de rutas de
@@ -8,12 +8,12 @@ fichero ni de código, y en cada manual una sección con **lo que se suele hacer
 cómo salir de ello. Las capturas están tomadas de una tienda 9.1.1 en funcionamiento, con
 sus productos, sus clientes y sus pedidos.
 
-> **[⬇ Descargar los 73 manuales en un solo PDF con índice](../../releases/latest)**
+> **[⬇ Descargar los 74 manuales en un solo PDF con índice](../../releases/latest)**
 > Los manuales sueltos están en la carpeta [`PDF 9.1/`](PDF%209.1).
 
 | | |
 |---|---|
-| Manuales | 73 PDF + 1 PDF unificado con índice |
+| Manuales | 74 PDF + 1 PDF unificado con índice |
 | Versión | PrestaShop 9.1.1 |
 | Idioma | castellano de España |
 | Formato | A4, con portada, índice de bloque y numeración |
@@ -42,6 +42,12 @@ reescribir:
 | **101** | Los **perfiles** pasan a llamarse **roles** |
 | **103, 113** | PrestaShop 9 intercala un aviso de seguridad al abrir pantallas antiguas desde un enlace guardado. No es un error, y conviene saberlo |
 
+> **Ojo: en 9.1 hay catorce funciones que vienen APAGADAS.** Están en
+> *Parámetros avanzados > Características nuevas y experimentales*, y se
+> encienden una a una. Entre ellas, el motor nuevo de cálculo de los
+> descuentos en el carrito. El manual **02** las explica todas, con el aviso
+> de cómo y cuándo tocarlas.
+
 Y varias cosas que el manual de 8.2 daba por buenas y **no eran ciertas ya**: *Meta
 keywords* ha desaparecido de categorías, marcas, proveedores y páginas; el albarán no lo
 crea marcar el pedido como enviado sino como **entregado**; y los botones de reembolso no
@@ -57,18 +63,19 @@ dependen de que haya factura, sino del cobro.
 | Vas a montar el catálogo | **10** cómo se organiza → **11** crear un producto → **20** categorías → **18** precios |
 | Vas a empezar a vender | **50** transportistas → **62** impuestos → **55** métodos de pago → **91** configuración de pedidos |
 | Ya vendes y toca el día a día | **30** pedidos → **31** la ficha de un pedido → **33** reembolsos → **40** clientes |
-| Vienes de PrestaShop 8 | La tabla de arriba → **25** descuentos → **50** transportistas → **74** ajustes de imagen |
+| Vienes de PrestaShop 8 o de la 1.7 | **02** todo lo nuevo en 9.1 → **25** descuentos → **50** transportistas → **74** ajustes de imagen |
 | Algo no funciona | **113** problemas frecuentes → **100** caché, correo y copias de seguridad |
 
 ---
 
-## Los 73 manuales
+## Los 74 manuales
 
 ### Entrada
 | | Manual |
 |---|---|
 | 00 | Índice general y mapa del back-office |
 | 01 | Primeros pasos: entrar, panel de control, buscador y modo mantenimiento |
+| 02 | **Todo lo nuevo en PrestaShop 9.1** (respecto a la 1.7 y a la 8.2) |
 
 ### Catálogo
 | | Manual |
@@ -194,7 +201,7 @@ el manual, y entre bloque y bloque se dejan huecos a propósito.
 
 | Bloque | Rango usado | Huecos libres |
 |---|---|---|
-| Entrada | 00-01 | 02-09 |
+| Entrada | 00-02 | 03-09 |
 | Catálogo | 10-28 | 29 |
 | Pedidos y ventas | 30-39 | — |
 | Clientes | 40-44 | 45-49 |
@@ -208,7 +215,7 @@ el manual, y entre bloque y bloque se dejan huecos a propósito.
 | Parámetros avanzados | 100-103 | 104-109 |
 | Guías prácticas | 110-114 | — |
 
-73 números ocupados y 42 libres entre el 00 y el 114.
+74 números ocupados y 41 libres entre el 00 y el 114.
 
 La razón es práctica: **los manuales se citan entre ellos por su número** todo el rato
 («el IGIC canario está en el 62», «el detalle de las miniaturas, en el 74»). Hay más de
@@ -224,7 +231,7 @@ el del índice del PDF unificado.
 
 ## Cómo está hecho cada manual
 
-La misma estructura en los 73, para que se lean rápido y se puedan usar como referencia:
+La misma estructura en los 74, para que se lean rápido y se puedan usar como referencia:
 
 - **Para qué sirve esto** — el porqué, en tres frases.
 - **Dónde está** — la ruta del menú, con la pantalla delante.
