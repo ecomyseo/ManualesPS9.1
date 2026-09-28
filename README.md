@@ -1,3 +1,15 @@
+# PrestaShop 9.1 manuals (Spanish)
+
+**74 PDF manuals in Spanish for PrestaShop 9.1 store owners, with real back-office screenshots.**
+
+- 74 manuals + one merged PDF
+
+> 🇪🇸 Documentación completa en castellano más abajo · Full docs below (Spanish).
+
+⭐ If this saves you time, a star helps other people find it.
+
+---
+
 # Manuales de PrestaShop 9.1
 
 **74 manuales en PDF** para el dueño de una tienda PrestaShop 9.1, en castellano y con
